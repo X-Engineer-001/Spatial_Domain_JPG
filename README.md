@@ -1,6 +1,6 @@
 獨特的圖片壓縮思維跟研究方向。<br>
 <br>
-Github放不下超大的.bmp圖檔......[Google Drive](https://drive.google.com/drive/folders/1RqmBng2F007P9GvN6ec18qIu3THddPA2?usp=sharing)<br>
+GitHub放不下超大的.bmp圖檔......[Google Drive](https://drive.google.com/drive/folders/1RqmBng2F007P9GvN6ec18qIu3THddPA2?usp=sharing)<br>
 執行檔使用static linking編譯僅為提高portability。<br>
 <br>
 有趣的小插曲：<br>
